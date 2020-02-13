@@ -71,6 +71,8 @@
 
 .name {
 	font-size: 50px;
+	color: white;
+	text-shadow: 2px 2px var(--color-4);
 }
 
 .bg {
